@@ -1,2 +1,6 @@
 new file for new-branch
+<<<<<<< HEAD
 edited file
+=======
+edited file
+>>>>>>> d4adcad (msg)
